@@ -6,7 +6,7 @@ import Youtube from '../assets/icons8-youtube-logo-50.png'
 
 const FirstSection = () => {
   return (
-      <div className='w-[80vw] h-[85vh] m-auto bg-neutral-300 flex'>
+      <div className='w-[80vw] h-[85vh] m-auto bg-neutral-200 flex'>
           <div className='survive w-[30%] flex'>
               <div className='h-[100%] w-[20%] flex flex-col justify-end'>
                   <div className='flex flex-col gap-0'>
